@@ -1,5 +1,5 @@
 
-#----
+#-----
 #Limpiar el workspace
 rm(list=ls())
 
